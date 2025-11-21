@@ -20,6 +20,13 @@ export default function JourneyRoadmap() {
             type: "education"
         },
         {
+            year: "2024",
+            title: "Backend Developer Internship",
+            organization: "2-Month Internship",
+            description: "Developed an AI-powered real-time chat application using Express.js, TypeScript, WebSocket, and integrated AI features for intelligent conversations and automated responses.",
+            type: "work"
+        },
+        {
             year: "2022",
             title: "Scholarship to Moscow Aviation Institute",
             organization: "Russia",

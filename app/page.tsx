@@ -3,8 +3,7 @@
 import { ThemeToggle } from './components/theme/ThemeToggle';
 import HeroSection from './components/HeroSection';
 import JourneyRoadmap from './components/JourneyRoadmap';
-import SystemArchitecture from './components/SystemArchitecture';
-import TechnicalMetrics from './components/TechnicalMetrics';
+import Projects from './components/Projects';
 import ContactSection from './components/ContactSection';
 
 export default function BackendPortfolio() {
@@ -13,8 +12,7 @@ export default function BackendPortfolio() {
 			<ThemeToggle />
 			<HeroSection />
 			<JourneyRoadmap />
-			<SystemArchitecture />
-			<TechnicalMetrics />
+			<Projects />
 			<ContactSection />
 		</main>
 	);
