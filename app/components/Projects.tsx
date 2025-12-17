@@ -16,7 +16,7 @@ export default function Projects() {
     const projects: Project[] = [
         {
             title: "Email Campaign Manager With Scheduled Sending",
-            year: "2024",
+            year: "2025",
             description:
                 "A system system where users can create email campaigns and schedule them to be sent at specific times to a list of recipients. Project to practice message queuing with BullMQ",
             image: "/projects/ecommerce.jpg",
@@ -26,89 +26,23 @@ export default function Projects() {
                 "PostgreSQL",
                 "Redis",
                 "Docker",
-                "BullMq",
+                "BullMQ",
             ],
             liveDemo: "https://example.com",
             github: "https://github.com/yourusername/project",
         },
         {
             title: "Real-Time Chat Application",
-            year: "2023",
-            description:
-                "A real-time messaging platform with WebSocket support.",
-            image: "/projects/chat.jpg",
-            techStack: [
-                "Node.js",
-                "Socket.io",
-                "MongoDB",
-                "React",
-                "TypeScript",
-            ],
-            liveDemo: "https://example.com",
-            github: "https://github.com/yourusername/project",
-        },
-        {
-            title: "API Gateway & Rate Limiter",
-            year: "2023",
-            description:
-                "Custom-built API gateway with intelligent rate limiting, request throttling, and comprehensive analytics for monitoring API usage patterns.",
-            image: "/projects/api-gateway.jpg",
-            techStack: [
-                "ExpressJS",
-                "Redis",
-                "PostgreSQL",
-                "Prometheus",
-                "Grafana",
-            ],
-            liveDemo: "https://example.com",
-            github: "https://github.com/yourusername/project",
-        },
-        {
-            title: "E-Commerce Microservices Platform",
             year: "2024",
             description:
-                "A scalable e-commerce platform built with microservices architecture, handling millions of requests daily with real-time inventory management and payment processing.",
-            image: "/projects/ecommerce.jpg",
-            techStack: [
-                "NestJS",
-                "TypeScript",
-                "PostgreSQL",
-                "Redis",
-                "Docker",
-                "Kubernetes",
-            ],
-            liveDemo: "https://example.com",
-            github: "https://github.com/yourusername/project",
-        },
-        {
-            title: "Real-Time Chat Application",
-            year: "2023",
-            description:
-                "A real-time messaging platform with WebSocket support, user presence tracking, file sharing, and end-to-end encryption for secure communications.",
+                "A real-time messaging platform with WebSocket support. Project built for my backend developer internship.",
             image: "/projects/chat.jpg",
             techStack: [
                 "Node.js",
                 "Socket.io",
                 "MongoDB",
-                "Redis",
                 "React",
                 "TypeScript",
-            ],
-            liveDemo: "https://example.com",
-            github: "https://github.com/yourusername/project",
-        },
-        {
-            title: "API Gateway & Rate Limiter",
-            year: "2023",
-            description:
-                "Custom-built API gateway with intelligent rate limiting, request throttling, and comprehensive analytics for monitoring API usage patterns.",
-            image: "/projects/api-gateway.jpg",
-            techStack: [
-                "ExpressJS",
-                "Redis",
-                "PostgreSQL",
-                "Prometheus",
-                "Grafana",
             ],
             liveDemo: "https://example.com",
             github: "https://github.com/yourusername/project",
