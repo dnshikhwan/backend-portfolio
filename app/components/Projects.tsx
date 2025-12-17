@@ -15,10 +15,10 @@ interface Project {
 export default function Projects() {
     const projects: Project[] = [
         {
-            title: "E-Commerce Microservices Platform",
+            title: "Email Campaign Manager With Scheduled Sending",
             year: "2024",
             description:
-                "A scalable e-commerce platform built with microservices architecture, handling millions of requests daily with real-time inventory management and payment processing.",
+                "A system system where users can create email campaigns and schedule them to be sent at specific times to a list of recipients. Project to practice message queuing with BullMQ",
             image: "/projects/ecommerce.jpg",
             techStack: [
                 "NestJS",
@@ -26,7 +26,7 @@ export default function Projects() {
                 "PostgreSQL",
                 "Redis",
                 "Docker",
-                "Kubernetes",
+                "BullMq",
             ],
             liveDemo: "https://example.com",
             github: "https://github.com/yourusername/project",
