@@ -35,13 +35,12 @@ export default function Projects() {
             title: "Real-Time Chat Application",
             year: "2023",
             description:
-                "A real-time messaging platform with WebSocket support, user presence tracking, file sharing, and end-to-end encryption for secure communications.",
+                "A real-time messaging platform with WebSocket support.",
             image: "/projects/chat.jpg",
             techStack: [
                 "Node.js",
                 "Socket.io",
                 "MongoDB",
-                "Redis",
                 "React",
                 "TypeScript",
             ],
