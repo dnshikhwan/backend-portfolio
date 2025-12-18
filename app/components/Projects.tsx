@@ -44,8 +44,8 @@ export default function Projects() {
                 "React",
                 "TypeScript",
             ],
-            liveDemo: "https://example.com",
-            github: "https://github.com/yourusername/project",
+            liveDemo: "https://message-io-0x09.onrender.com/",
+            github: "https://github.com/dnshikhwan/message.io-prod",
         },
     ];
 
