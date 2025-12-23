@@ -32,6 +32,22 @@ export default function Projects() {
             github: "https://github.com/dnshikhwan/emaily",
         },
         {
+            title: "URL Shortener Service",
+            year: "2025",
+            description:
+                "Developed a high-performance URL shortening service using NestJS and TypeScript. Implemented complete backend architecture including Redis caching for frequently accessed URLs, PostgreSQL for data persistence, and efficient redirection logic. Built RESTful APIs with input validation, unique code generation algorithms, and analytics tracking. Focused on scalability through caching strategies that reduce database load and maintain fast response times.",
+            image: "/projects/chat.jpg",
+            techStack: [
+                "Node.js",
+                "NestJS",
+                "PostgreSQL",
+                "Redis",
+                "Typescript",
+            ],
+            liveDemo: "https://example.com",
+            github: "https://github.com/dnshikhwan/url-shortener-redis",
+        },
+        {
             title: "Real-Time Chat Application",
             year: "2024",
             description:
