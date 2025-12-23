@@ -29,7 +29,7 @@ export default function Projects() {
                 "BullMQ",
             ],
             liveDemo: "https://example.com",
-            github: "https://github.com/yourusername/project",
+            github: "https://github.com/dnshikhwan/emaily",
         },
         {
             title: "Real-Time Chat Application",
